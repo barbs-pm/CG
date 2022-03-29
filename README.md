@@ -1,19 +1,18 @@
-# Computação Gráfica
+# ThreeJS Playground
 
-Códigos pertinentes à matéria de Computação Gráfica
+## Objective
+Learn how to use ThreeJS through exercises.
 
+## How to contribute
 
-### Informações
+To contribute and make the open source community an amazing place to learn, design, create and inspire others. Just follow the instructions below:
 
-Prof.: **Geomar Andre Schreiner**
+1. Fork the project
+2. Create a branch with the new feature (`git checkout -b feature/featureAWS`)
+3. Commit (`git commit -m 'Add some featureAWS'`)
+4. Push the Branch (`git push origin feature/featureAWS`)
+5. Open a Pull Request 
 
-Aluna: **Bárbara Pegoraro Markus**
+## Author
 
-*CIÊNCIA DA COMPUTAÇÃO*
-
-*UNIVERSIDADE FEDERAL DA FRONTEIRA SUL*
-
-*CAMPUS CHAPECÓ/SC*
-
-![cc](https://i.imgur.com/wdSPfgK.png)
-
+- **[Bárbara Pegoraro Markus](https://github.com/barbs-pm)** - _Acadêmica do Curso de Ciência da Computação - UFFS_. 
